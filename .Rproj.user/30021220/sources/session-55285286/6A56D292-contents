@@ -19,7 +19,7 @@ website:
       - contact.qmd
     tools:
       - icon: linkedin
-        href: www.linkedin.com/in/felina-leng-02a292232
+        href: https://www.linkedin.com/in/felina-leng-02a292232
   page-footer: 
     center: "Copyright 2025, Felina Leng"
     background: light
